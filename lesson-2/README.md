@@ -1,5 +1,4 @@
-# Novice
-第一次打代码 上传
+# 上传教程
 http://www.cnblogs.com/cxk1995/p/5800196.html
 git clone 
 cd XXXX
